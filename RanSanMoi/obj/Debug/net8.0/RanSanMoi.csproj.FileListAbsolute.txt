@@ -1,0 +1,29 @@
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.AssemblyInfoInputs.cache
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.AssemblyInfo.cs
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.csproj.CoreCompileInputs.cache
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.sourcelink.json
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.exe
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.deps.json
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.runtimeconfig.json
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.dll
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.pdb
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.dll
+E:\C#\RanSanMoi\obj\Debug\net8.0\refint\RanSanMoi.dll
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.pdb
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.genruntimeconfig.cache
+E:\C#\RanSanMoi\obj\Debug\net8.0\ref\RanSanMoi.dll
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\bin\Debug\net8.0\RanSanMoi.exe
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\bin\Debug\net8.0\RanSanMoi.deps.json
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\bin\Debug\net8.0\RanSanMoi.runtimeconfig.json
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\bin\Debug\net8.0\RanSanMoi.dll
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\bin\Debug\net8.0\RanSanMoi.pdb
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\obj\Debug\net8.0\RanSanMoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\obj\Debug\net8.0\RanSanMoi.AssemblyInfoInputs.cache
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\obj\Debug\net8.0\RanSanMoi.AssemblyInfo.cs
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\obj\Debug\net8.0\RanSanMoi.csproj.CoreCompileInputs.cache
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\obj\Debug\net8.0\RanSanMoi.dll
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\obj\Debug\net8.0\refint\RanSanMoi.dll
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\obj\Debug\net8.0\RanSanMoi.pdb
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\obj\Debug\net8.0\RanSanMoi.genruntimeconfig.cache
+D:\BT codegym\Du an cuoi khoa\RanSanMoi\obj\Debug\net8.0\ref\RanSanMoi.dll
